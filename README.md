@@ -1,2 +1,2 @@
 # TomcatMavenApp
-Sample Tomcat Maven App for labexam
+Sample Tomcat Maven App
